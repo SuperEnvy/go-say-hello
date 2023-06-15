@@ -5,3 +5,4 @@ func SayHello(name string) string {
 }
 
 // ini komen agung ardiyanto
+// komen gw
